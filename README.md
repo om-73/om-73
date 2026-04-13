@@ -1,141 +1,177 @@
-<!-- 🔥 Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00C2FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Omprakash+Singh;Data+Analyst+%7C+Automation+Engineer;Building+Scalable+Data+Systems;AI+%2B+Cybersecurity+Explorer" />
-</p>
-
-<h1 align="center">Omprakash Singh</h1>
-<h3 align="center">⚡ Data • Automation • AI Systems</h3>
+<h1 align="center">Hi 👋, I'm Omprakash Singh</h1>
+<h3 align="center">⚡ Data • Automation • AI Systems | Full Stack Developer | Backend Specialist</h3>
 
 <p align="center">
-  <a href="mailto:om.73.singh@gmail.com">Email</a> •
-  <a href="https://www.linkedin.com/in/omprakash-singh-265796228/">LinkedIn</a> •
-  <a href="https://github.com/om-73">GitHub</a> •
-  <a href="https://folio-mu-flax.vercel.app">Portfolio</a>
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Building+Scalable+Data+Pipelines;AI-Powered+Cybersecurity+Agents;Full+Stack+%26+Backend+Systems;SQL+%7C+Java+%7C+Python+%7C+React&center=true&width=500&height=45">
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=om-73&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=omprakash-singh&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## 🧠 About Me
+## 🚀 About Me
 
-- 🔭 Working as **Data Analyst & Automation Intern**
+- 🔭 **Data Analyst & Automation Intern** @ Sapmen C. (Bengaluru)
 - ⚙️ Building **data pipelines, dashboards & automation systems**
+- 🏗️ Designing **scalable backend systems** with Java & Spring Boot
+- 🤖 Developing **AI-powered cybersecurity agents**
 - 📊 Strong in **SQL, Excel, Data Analysis & Visualization**
-- 🤖 Exploring **AI + Cybersecurity + Scalable Systems**
 - ⚡ Improved reporting & anomaly detection efficiency by **60%**
-
----
-
-## ⚡ Currently Building
-
-- 🔐 AI-powered Cybersecurity Agent  
-- 📊 Scalable Data Pipelines & Automation Systems  
-- ⚙️ High-performance backend systems  
-
----
-
-## 💼 Experience
-
-### 🏢 Data Analyst & Automation Intern — Sapmen C. (Bengaluru)
-- Optimized **SQL queries (PostgreSQL, MySQL)** for production systems  
-- Built **Excel dashboards** (Pivot Tables, XLOOKUP, INDEX/MATCH)  
-- Developed **Python automation pipelines** → reduced manual work by **60%**  
-- Integrated **REST APIs (OpenAI, Gemini, Cloudflare R2)**  
-- Created **analytics dashboards** (Recharts, Matplotlib)  
-- Built **data validation pipelines** ensuring accuracy  
-
----
-
-## 🚀 Featured Projects
-
-### 🔹 NexusDash — Data Analytics Platform  
-🔗 [GitHub](https://github.com/om-73/nexusdash) | [Live](https://nexusdash-theta.vercel.app)
-
-- End-to-end **analytics platform** with automated EDA  
-- Implemented **data quality scoring system**  
-- Advanced **SQL analytics (CTEs, window functions)**  
-- Built **PII detection system**  
-- Production-ready automation workflows  
-
----
-
-### 🔹 Real-Time Network Analytics System  
-🔗 [GitHub](https://github.com/om-73/local-network-) | [Live](https://local-network.vercel.app)
-
-- Built **real-time analytics pipeline**  
-- Implemented **z-score anomaly detection**  
-- Created **data visualization dashboards**  
-- Integrated APIs & automation workflows  
 
 ---
 
 ## 🛠️ Tech Stack
 
+<p align="center">
+
 ### 📊 Data & Analytics
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+### ☕ Backend & Development
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### 📈 Visualization & BI
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
-![Apache Superset](https://img.shields.io/badge/Superset-000000?style=for-the-badge)
+### 🎨 Frontend & Visualization
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge)
+![Apache Superset](https://img.shields.io/badge/Superset-20A6C9?style=for-the-badge&logo=apache-superset&logoColor=white)
 
-### ⚙️ Tools & Tech
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions)
+### ⚙️ Tools & DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</p>
+
+---
+
+## 💼 Experience
+
+**🏢 Data Analyst & Automation Intern** — *Sapmen C. (Bengaluru)*
+
+| Area | Contribution |
+|------|-------------|
+| **SQL Optimization** | Optimized PostgreSQL/MySQL queries for production systems |
+| **Excel Automation** | Built dashboards with Pivot Tables, XLOOKUP, INDEX/MATCH |
+| **Python Pipelines** | Reduced manual work by **60%** through automation |
+| **API Integration** | Integrated REST APIs (OpenAI, Gemini, Cloudflare R2) |
+| **Analytics** | Created dashboards using Recharts & Matplotlib |
+| **Data Validation** | Built pipelines ensuring data accuracy |
+
+---
+
+## 🔥 Featured Projects
+
+### 🔹 NexusDash — Data Analytics Platform
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-black?style=flat-square&logo=github)](https://github.com/omprakash-singh/nexusdash)
+
+> End-to-end analytics platform with automated EDA
+
+- Data quality scoring system
+- Advanced SQL analytics (CTEs, window functions)
+- PII detection system
+- Production-ready automation workflows
+
+### 🔹 Real-Time Network Analytics System
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-black?style=flat-square&logo=github)](https://github.com/omprakash-singh/network-analytics)
+
+> Real-time analytics pipeline with anomaly detection
+
+- Z-score anomaly detection implementation
+- Data visualization dashboards
+- API integration & automation workflows
+
+### 🔐 AI Cybersecurity Agent (Building)
+> AI-powered system to detect vulnerabilities in APIs and web applications
+
+- Focus: **Security + AI + Automation**
+
+### 🔑 Auth System
+> Secure authentication & authorization system
+
+- Focus: **JWT, OAuth, backend security**
+
+---
+
+## 🏆 Achievements
+
+| Achievement | Recognition |
+|-------------|-------------|
+| 🥇 Meta Hacker Cup 2025 | **Top 0.5%** globally |
+| 💻 HackerRank | **6★** Problem Solving |
+| 🚀 Smart India Hackathon 2023 | **National Finalist** |
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=om-73&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=om-73&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=omprakash-singh&show_icons=true&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=om-73&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omprakash-singh&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=omprakash-singh&theme=radical&hide_border=true" />
 </p>
 
 ---
 
-## 🏆 Achievements
+## 🧩 Currently Building
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HackerRank-6★-2EC866?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Meta%20Hacker%20Cup-Top%200.5%25-blue?style=for-the-badge"/>
-</p>
-
-- 🥇 Meta Hacker Cup 2025 — Top **0.5% globally**  
-- 💻 6★ HackerRank (Problem Solving)  
-- 🚀 Smart India Hackathon 2023 — National Finalist  
+- 🔐 AI-powered cybersecurity agent (vulnerability detection)
+- 📊 Scalable data pipelines & automation systems
+- ⚙️ High-performance backend systems with Spring Boot
+- 📐 Deep diving into **System Design & High-Level Architecture**
 
 ---
 
 ## 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/om-73/om-73/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/omprakash-singh/omprakash-singh/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-## 📬 Connect With Me
+## 🌐 Connect With Me
 
-- 📧 Email: om.73.singh@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/omprakash-singh-265796228/  
-- 🌐 Portfolio: https://folio-mu-flax.vercel.app  
+<p align="center">
+  <a href="https://linkedin.com/in/omprakash-singh-265796228">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:om.73.singh@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://folio-mu-flax.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white">
+  </a>
+  <a href="https://github.com/omprakash-singh">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
 
 ---
 
-⭐️ Open to opportunities in **Data Engineering | Backend | AI Systems**
+<p align="center">
+  <b>⭐️ Open to opportunities in Data Engineering | Backend Development | AI Systems</b>
+</p>
+
+<p align="center">
+  <i>“Building systems that scale, automating what matters, and securing the future with AI.”</i>
+</p>
